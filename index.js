@@ -3,8 +3,6 @@ class App extends React.Component {
     return (
       <div>
         <Machine fruits={['🍊', '🍇', '🍒']} />
-        <Machine fruits={['🍊', '🍇', '🍒']} />
-        <Machine fruits={['🍊', '🍇', '🍒']} />
       </div>
     );
   }
